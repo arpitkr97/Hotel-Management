@@ -1,0 +1,9 @@
+.idea/
+*.iml
+out/
+*.jar
+Jar Files/
+*.png
+*.jpg
+*.jpeg
+README.md
